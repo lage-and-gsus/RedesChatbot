@@ -85,11 +85,10 @@ small, .font_small {
 
 p, ul, ol, figure {
   margin-bottom: 1.3em;
-  display: none;
 }
 
-li {
-  display: none;
+ul {
+  list-style-type: none;
 }
 
 a {
